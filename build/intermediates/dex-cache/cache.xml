@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8cc04d34d04d08b94603be4ddecaa130452fb875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e44c6f7f79cfbb27c26266bfb2a594c8f9241f0e">
+        <dex dex="/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad6f6e4bc7606df026d7f08e645cb268c1867efb/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Jun 02 21:14:58 KST 2017
+1.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/res/raw/goaway.mp3
+4.set=ANDROID_RESOURCE
+2.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_

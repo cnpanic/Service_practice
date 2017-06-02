@@ -1,0 +1,7 @@
+#Fri Jun 02 21:15:06 KST 2017
+base.0=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad6f6e4bc7606df026d7f08e645cb268c1867efb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8cc04d34d04d08b94603be4ddecaa130452fb875/classes.dex
+base.1=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8cc04d34d04d08b94603be4ddecaa130452fb875
+file.0=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad6f6e4bc7606df026d7f08e645cb268c1867efb/classes.dex

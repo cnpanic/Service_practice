@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Jun 02 21:15:07 KST 2017
+2.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad6f6e4bc7606df026d7f08e645cb268c1867efb
+5.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8cc04d34d04d08b94603be4ddecaa130452fb875/classes.dex
+5.set=DEX
+3.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=DEX
+4.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8cc04d34d04d08b94603be4ddecaa130452fb875
+4.set=ANDROID_RESOURCE
+6.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/res/raw/goaway.mp3
+1.set=ANDROID_RESOURCE
+2.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad6f6e4bc7606df026d7f08e645cb268c1867efb/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/proMACBOOK/Downloads/TestService1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE
